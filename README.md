@@ -1,5 +1,5 @@
-[![author](https://img.shields.io/badge/Author-Elismar-blue.svg)](https://linktr.ee/zouza)
-[![Power Bi](https://img.shields.io/badge/Author-Elismar-blue.svg)](https://linktr.ee/zouza)
+[![author](https://img.shields.io/badge/Author-Elismar-blue.svg)](http://www.linkedin.com/in/elismar-rodrigues1893)
+
 
 # Meu primeiro Dashboard: Power Bi
 Repositorio; Comparativo de faturamento Trimestral.
