@@ -4,7 +4,7 @@
 Repositorio Comparativo de faturamento Trimestral
 
 ```Power Bi
-(link)(<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWUwYjExOTEtMjllNS00MGNiLWI3NWItNTM3OTkwOTUzNjMwIiwidCI6IjE0NGM0ZGUwLWJkNTEtNDE4NS1iMTE2LWVlYTgyN2RhZjI5NyJ9" frameborder="0" allowFullScreen="true"></iframe>)
-```
+[link](https://app.powerbi.com/view?r=eyJrIjoiZWUwYjExOTEtMjllNS00MGNiLWI3NWItNTM3OTkwOTUzNjMwIiwidCI6IjE0NGM0ZGUwLWJkNTEtNDE4NS1iMTE2LWVlYTgyN2RhZjI5NyJ9&pageName=ReportSection)
+
 
 
