@@ -10,3 +10,6 @@ Opções
 select * from tbteste;
 ```
 
+```python
+import pandas pd
+```
